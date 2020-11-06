@@ -6,11 +6,11 @@
 
 - [ 1.Definiciones y especificación de requerimientos](#1.-Definiciones-y-especificación-de-requerimientos).
 
-  - [a. Definición general del proyecto de software](#a.-Definición-general-del-proyecto-de-software).
+  - [a.Definición general del proyecto de software](#a.-Definición-general-del-proyecto-de-software).
   
   - [ b. Especificación de requerimientos del proyecto](#b.-Especificación-de-requerimientos-del-proyecto).
   
-  - [c. Procedimientos de instalación y prueba:](#c.Procedimientos-de-instalación-y-prueba:).
+  - [c.Procedimientos de instalación y prueba:](#c.Procedimientos-de-instalación-y-prueba:).
   
 - [2. Arquitectura del sistema](#2.-Arquitectura-del-sistema).
 
@@ -25,7 +25,7 @@
 
 ## 1.Definiciones y especificación de requerimientos
 
-## **a. Definición general del proyecto de software**
+## **a.Definición general del proyecto de software**
 
 **Idea general**: Este proyecto de software tiene como principal objetivo brindar una
 manera más eficiente de analizar el progreso de cada funcionario del hospital en
@@ -54,7 +54,7 @@ Los usuarios secundarios que serían todos los funcionarios
 
 * Información de autoría y Legacy del proyecto:Alcances del sistema:
 
-### c. Procedimientos de instalación y prueba:
+### c.Procedimientos de instalación y prueba:
 
 * Requisitos no funcionales:
 
