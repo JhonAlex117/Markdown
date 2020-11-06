@@ -7,13 +7,13 @@
 - [1. Definiciones y especificación de requerimientos](#1-Definiciones-y-especificación-de-requerimientos).
   - [a. Definición general del proyecto de software](#a-Definición-general-del-proyecto-de-software).
   - [b. Especificación de requerimientos del proyecto](#b-Especificación-de-requerimientos-del-proyecto).
-  - [c. Procedimientos de instalación y prueba:](#Procedimientos-de-instalación-y-prueba).
+  - [c. Procedimientos de instalación y prueba](#Procedimientos-de-instalación-y-prueba).
 - [2. Arquitectura del sistema](#2-Arquitectura-del-sistema)
 - [3. Diseño del modelo de datos](#3-Diseño-del-modelo-de-datos)
 - [4. Descripción de procesos y servicios ofrecidos por el sistema](#4-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema)
 
 >Instrumentos Consumo Tabaco 
-- [Test de Fagerström de dependencia de la nicotina (1991)](#Test-de-Fagerström-de-dependencia-de-la-nicotina)
+- [Test de Fagerström de dependencia de la nicotina](#Test-de-Fagerström-de-dependencia-de-la-nicotina)
 
 
 ## Proyecto sobre el Mejoramiento de la Salud y Proactividad de los Funcionarios del Hospital Departamental Tomas Uribe Uribe Tuluá
