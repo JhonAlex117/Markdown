@@ -10,7 +10,7 @@
   
   - [ b. Especificación de requerimientos del proyecto](#b.-Especificación-de-requerimientos-del-proyecto).
   
-  - [c.Procedimientos de instalación y prueba:](#c.Procedimientos-de-instalación-y-prueba).
+  - [Procedimientos de instalación y prueba:](#c.Procedimientos-de-instalación-y-prueba).
   
 - [2. Arquitectura del sistema](#2.-Arquitectura-del-sistema).
 
