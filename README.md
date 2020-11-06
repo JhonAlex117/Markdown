@@ -7,7 +7,7 @@
 - [1. Definiciones y especificación de requerimientos](#1-Definiciones-y-especificación-de-requerimientos).
   - [a. Definición general del proyecto de software](#a-Definición-general-del-proyecto-de-software).
   - [b. Especificación de requerimientos del proyecto](#b-Especificación-de-requerimientos-del-proyecto).
-  - [c. Procedimientos de instalación y prueba\:](#c-Procedimientos-de-instalación-y-prueba).
+  - [c. Procedimientos de instalación y prueba\:](#c-Procedimientos-de-instalación-y-prueba:).
 - [2. Arquitectura del sistema](#2-Arquitectura-del-sistema)
 - [3. Diseño del modelo de datos](#3-Diseño-del-modelo-de-datos)
 - [4. Descripción de procesos y servicios ofrecidos por el sistema](#4-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema)
@@ -49,7 +49,7 @@ Los usuarios secundarios que serían todos los funcionarios
 
 * Información de autoría y Legacy del proyecto:Alcances del sistema:
 
-### c. Procedimientos de instalación y prueba
+### c. Procedimientos de instalación y prueba:
 
 * Requisitos no funcionales:
 
