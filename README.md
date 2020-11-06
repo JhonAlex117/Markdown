@@ -1,118 +1,78 @@
-# Markdown
+# Tabla de contenido
+<!-- 
+- [](#)
+-->
+>Documentacion 
 
-Markdown es un lenguaje de marcado y una forma sencilla de agregar formato a textos web. Con formato nos referimos a itálicas, negritas, listas, y demás. Markdown fue creado originalmente por John Gruber, con ayuda de Aaron Swartz, con el propósito de crear un texto plano fácil de escribir y fácil de leer, y que pudiera convertirse de forma sencilla y válida a XHTML.
-
-## Tabla de contenido
-
-- [Insertar HN](#insertar-hn).
-- [Cursivas](#cursivas).
-- [Negrilla](#negrilla).
-- [Viñetas para tablas de contenido](#vinetas).
-- [insertar imágenes](#insertar-imagenes).
-- [Insertar enlaces](#insertar-enlaces).
-- [Hacer anclaje](#hacer-anclaje).
-- [Insertar una línea de código](#insertar-una-linea-de-codigo).
-- [Insertar un bloque de código](#insertar-un-bloque-de-codigo).
-- [Resaltar el código](#resaltar-el-codigo).
-- [Insertar tablas](#insertar-tablas).
-- [Otras referencias sobre Markdown](#otras-referencias-sobre-markdown).
-
-### Insertar HN
-
-```plain
-# Esto es un H1
-## Esto es un H2
-### Esto es un H3
-#### Esto es un H4
-
-```
-
-### Cursivas
-
-`*Esto es cursiva*`
-
-### Negrilla
-
-`**Esto es negrilla**`
-
-### Vinetas
-
-```plain
-
-- Esto es viñeta 1.
-  - Viñeta 1.1 con sangria.
-  - Viñeta N.
-  
-```
-
-### Insertar imagenes
-
-`![texto cualquiera por si no carga la imagen](url completa de la imagen)`
-
-### Insertar enlaces
-
-`[texto a mostrar](url completa)`
-
-### Hacer anclaje
-
-Usar los títulos con la almohadilla `#` y para anclar el título a una tabla de contenido, ponemos lo siguiente:
-
-`[texto a mostrar](#mi-titulo-a-anclar)`
-
-### Insertar una linea de codigo
-
-Encerrar la linea de código entre la tilde al revés ` Código en ASCII: alt96
-
-Ejemplo:
-
-<pre><code>`tu linea de codigo`</code></pre>
-
-### Insertar un bloque de codigo
-
-Encerrar el bloque de código entre tres tildes al revés ``` Código en ASCII: alt96
-
-Ejemplo:
-
-<pre>
-		```
-		
-		//bloque de codigo...
-		
-		```
-</pre>
+- [1. Definiciones y especificación de requerimientos](#1.-Definiciones-y-especificación-de-requerimientos).
+  - [a. Definición general del proyecto de software](#a.-Definición-general-del-proyecto-de-software).
+  - [b. Especificación de requerimientos del proyecto](#b.-Especificación-de-requerimientos-del-proyecto).
+  - [c. Procedimientos de instalación y prueba:](#c.-Procedimientos-de-instalación-y-prueba:).
+- [2. Arquitectura del sistema](#2.-Arquitectura-del-sistema).
+- [3. Diseño del modelo de datos](#3.-Diseño-del-modelo-de-datos).
+- [4. Descripción de procesos y servicios ofrecidos por el sistema](#4.-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema).
 
 
-### Resaltar el codigo
 
-Encerramos el bloque de código con las tres tildes al revés ``` y le ponemos al lado el lenguaje que se está usando, ejemplo:
+## Proyecto sobre el Mejoramiento de la Salud y Proactividad de los Funcionarios del Hospital Departamental Tomas Uribe Uribe Tuluá
 
-<pre>
-		```java
-		
-		//bloque de codigo...
-		
-		```
-</pre>
+### 1. Definiciones y especificación de requerimientos
 
-### Insertar tablas
+### a. Definición general del proyecto de software
 
-```plain
+**Idea general**: Este proyecto de software tiene como principal objetivo brindar una
+manera más eficiente de analizar el progreso de cada funcionario del hospital en
+cuanto a sus actividades fuera y dentro de su área de trabajo tanto en su estado
+emocional y físico, es decir que el aplicativo ahorraría tiempo a la hora de recolección
+de datos como en su análisis.
 
-| TITULO1| TITULO2|
-| ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+**Objetivo**: Mejorar el proceso de recolección de datos y análisis de estos, garantizar
+que se pueda llevar un control en el proceso de mejorar el estilo de vida de los
+empleados del hospital, observando los progresos que tiene cada individuo, de esta
+manera el sistema deberá analizar los datos tanto cuantitativos para medir sus
+mejoras o progresos y cualitativos para mejorar la interpretación e informar a los
+responsables del proyecto si se ha avanzado o se debe reforzar alguna actividad ya
+sea física o emocional.
 
+**Usuarios**: El sistema manejara dos tipos de usuario, los usuarios principales que
+interactuaran con el siendo estos los que van a llevar el control en su respectivo
+proceso como: Entrenamiento, Psicología, Nutrición y Espiritualidad.
+Los usuarios secundarios que serían todos los funcionarios
 
-```
+### b. Especificación de requerimientos del proyecto
 
-### Otras referencias sobre Markdown:
+* Requisitos generales:
 
-http://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
+* Requisitos funcionales:
 
-https://help.github.com/articles/markdown-basics
+* Información de autoría y Legacy del proyecto:Alcances del sistema:
 
-https://guides.github.com/features/mastering-markdown/
+### c. Procedimientos de instalación y prueba:
 
-http://bitelia.com/2013/04/que-es-markdown
+* Requisitos no funcionales:
 
-http://es.wikipedia.org/wiki/Markdown
+* Obtención e instalación:
+
+* Especificaciones de prueba y ejecución:
+
+### 2. Arquitectura del sistema
+
+* Descripción jerárquica
+
+* Diagrama de módulos
+
+* Descripción individual de los módulos
+
+* Descripción general y propósito:
+
+* Responsabilidad y restricciones:
+
+* Dependencias:
+
+* Implementación:
+
+* Dependencias externas:
+
+### 3. Diseño del modelo de datos
+
+### 4. Descripción de procesos y servicios ofrecidos por el sistema
