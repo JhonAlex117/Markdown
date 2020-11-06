@@ -4,7 +4,7 @@
 -->
 >Documentacion 
 
-- [ 1. Definiciones y especificación de requerimientos](#1.-Definiciones-y-especificación-de-requerimientos).
+- [ 1.Definiciones y especificación de requerimientos](#1.-Definiciones-y-especificación-de-requerimientos).
 
   - [a. Definición general del proyecto de software](#a.-Definición-general-del-proyecto-de-software).
   
@@ -23,7 +23,7 @@
 
 ## Proyecto sobre el Mejoramiento de la Salud y Proactividad de los Funcionarios del Hospital Departamental Tomas Uribe Uribe Tuluá
 
-## 1. Definiciones y especificación de requerimientos
+## 1.Definiciones y especificación de requerimientos
 
 ## **a. Definición general del proyecto de software**
 
