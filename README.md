@@ -12,11 +12,11 @@
   
   - [c.Procedimientos de instalación y prueba:](#Procedimientos-de-instalación-y-prueba).
   
-- [2. Arquitectura del sistema](#2.-Arquitectura-del-sistema).
+- [2. Arquitectura del sistema](#2-Arquitectura-del-sistema).
 
-- [3. Diseño del modelo de datos](#3.-Diseño-del-modelo-de-datos).
+- [3. Diseño del modelo de datos](#3Diseño-del-modelo-de-datos).
 
-- [4. Descripción de procesos y servicios ofrecidos por el sistema](#4.-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema).
+- [4. Descripción de procesos y servicios ofrecidos por el sistema](#4-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema).
 
 
 
