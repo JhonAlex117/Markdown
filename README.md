@@ -13,7 +13,7 @@
 - [4. Descripción de procesos y servicios ofrecidos por el sistema](#4-Descripción-de-procesos-y-servicios-ofrecidos-por-el-sistema)
 
 >Instrumentos Consumo Tabaco 
-- [Test de Fagerström de dependencia de la nicotina 1991](#Test-de-Fagerström-de-dependencia-de-la-nicotina-1991)
+- [Test de Fagerström de dependencia de la nicotina \(1991\)](#Test-de-Fagerström-de-dependencia-de-la-nicotina-1991)
 
 
 ## Proyecto sobre el Mejoramiento de la Salud y Proactividad de los Funcionarios del Hospital Departamental Tomas Uribe Uribe Tuluá
