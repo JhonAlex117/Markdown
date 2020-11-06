@@ -10,7 +10,7 @@
   
   - [ b. Especificación de requerimientos del proyecto](#b.-Especificación-de-requerimientos-del-proyecto).
   
-  - [c. Procedimientos de instalación y prueba:](#c.-Procedimientos-de-instalación-y-prueba:).
+  - [c. Procedimientos de instalación y prueba:](#c.Procedimientos-de-instalación-y-prueba:).
   
 - [2. Arquitectura del sistema](#2.-Arquitectura-del-sistema).
 
@@ -23,9 +23,9 @@
 
 ## Proyecto sobre el Mejoramiento de la Salud y Proactividad de los Funcionarios del Hospital Departamental Tomas Uribe Uribe Tuluá
 
-### 1. Definiciones y especificación de requerimientos
+## 1. Definiciones y especificación de requerimientos
 
-### **a. Definición general del proyecto de software**
+## **a. Definición general del proyecto de software**
 
 **Idea general**: Este proyecto de software tiene como principal objetivo brindar una
 manera más eficiente de analizar el progreso de cada funcionario del hospital en
@@ -46,7 +46,7 @@ interactuaran con el siendo estos los que van a llevar el control en su respecti
 proceso como: Entrenamiento, Psicología, Nutrición y Espiritualidad.
 Los usuarios secundarios que serían todos los funcionarios
 
-### **b. Especificación de requerimientos del proyecto**
+## **b. Especificación de requerimientos del proyecto**
 
 * Requisitos generales:
 
@@ -62,7 +62,7 @@ Los usuarios secundarios que serían todos los funcionarios
 
 * Especificaciones de prueba y ejecución:
 
-### 2. Arquitectura del sistema
+## 2. **Arquitectura del sistema**
 
 * Descripción jerárquica
 
